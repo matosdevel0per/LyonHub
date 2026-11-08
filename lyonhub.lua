@@ -193,7 +193,7 @@ Tabs.M:AddDiscordInvite({
     Name = Translator:traduzir("Lyon Hub | Community"),
     Description = Translator:traduzir("Junte-se à nossa comunidade discord para receber informações sobre a próxima atualização"),
     Logo = "rbxassetid://",
-    Invite = ""
+    Invite = "https://discord.gg/Ab4kp2HXC"
 })
 
 Tabs.M:AddSection({Translator:traduzir("Acess Admin")})
